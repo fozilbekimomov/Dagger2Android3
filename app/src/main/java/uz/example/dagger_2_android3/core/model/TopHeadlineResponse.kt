@@ -1,0 +1,1 @@
+package uz.example.dagger_2_android3.core.modelimport com.google.gson.annotations.SerializedNamedata class TopHeadlineResponse(    @SerializedName("status")    val status: String, // ok    @SerializedName("totalResults")    val totalResults: Int, // 33    @SerializedName("articles")    val articles: List<Article>)
