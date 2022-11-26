@@ -1,0 +1,1 @@
+package uz.example.dagger_2_android3.core.model.latestimport com.google.gson.annotations.SerializedNamedata class Genre(    @SerializedName("id")    val id: Int, // 99    @SerializedName("name")    val name: String // Documentary)
