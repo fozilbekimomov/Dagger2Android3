@@ -1,0 +1,1 @@
+package uz.example.dagger_2_android3.core.modelimport uz.example.dagger_2_android3.core.model.popular.MovieItemimport uz.example.dagger_2_android3.core.utils.HomeItemTypeclass HomeGroupItem(    val title:String,    val data:List<MovieItem>,    val type: HomeItemType)

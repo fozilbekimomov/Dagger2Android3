@@ -1,0 +1,1 @@
+package uz.example.dagger_2_android3.core.utilsenum class HomeItemType {    MOVIE,    TV,    COLLECTION}

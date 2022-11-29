@@ -1,0 +1,1 @@
+package uz.example.dagger_2_android3.core.utilsobject Constants {    val IMAGE_BASE_URL="https://image.tmdb.org/t/p/w500"}
