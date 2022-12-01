@@ -10,4 +10,7 @@
     <color name="background_color">#FAFAFA</color>
     <color name="title_color">#171717</color>
     <color name="desc_color">#0A0A0A</color>
+    <color name="brand_blue">#37A5FB</color>
+    <color name="dark_brand_color">#0485EA</color>
+    <color name="button_text_color">#FFFFFF</color>
 </resources>
